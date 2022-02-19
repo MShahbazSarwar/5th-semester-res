@@ -1,6 +1,8 @@
 body{
     margin: 0;
     padding: 0;
+    background: gray;
+    color: white
 }
 div{
     display: flex;
@@ -11,8 +13,12 @@ div{
     margin: 20px;
     width: 500px;
     height: 450px;
+    background: seagreen;
 }
 input{
     height: 60px;
-    width: 300px
+    width: 300px;
+}
+input[type="submit"]{
+    margin-bottom: 20px;
 }
