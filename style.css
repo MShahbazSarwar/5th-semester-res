@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin: 20px;
+    width: 500px;
+    height: 450px;
+}
+input{
+    height: 60px;
+    width: 300px
+}
